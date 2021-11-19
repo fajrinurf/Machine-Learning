@@ -1,0 +1,19 @@
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #94d2bd;
+}
+
+#projects {
+  background-color: #94d2bd;
+}
+#cv {
+  padding-top: 2rem;
+}
+
+#space {
+  padding-bottom: 4rem;
+}
+
+section {
+  padding-top: 5rem;
+}
